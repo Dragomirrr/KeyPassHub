@@ -1,0 +1,8 @@
+What I've Completed So Far:
+I’ve completed some of the base template for the app. I’ve also created a barebones structure for the Password Storage and Password Generator features.
+
+Problems/Challenges:
+I’m still figuring out how to implement user authentication for secure access.
+
+Next Steps:
+I plan to implement authentication at launch and improve the user interface to make it look more polished.
