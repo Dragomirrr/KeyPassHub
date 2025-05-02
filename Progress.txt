@@ -1,0 +1,1 @@
+I’ve set up the basic structure of the app. I’ve created simple versions of the Password Storage and Password Generator features. The Password Storage lets users save and retrieve passwords, while the Password Generator allows users to create secure passwords. These are basic versions, but they form the foundation of the app.
